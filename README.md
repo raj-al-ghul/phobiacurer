@@ -13,6 +13,7 @@ http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0093270
 http://www.guidetopsychology.com/sysden.htm
 http://www.simplypsychology.org/Systematic-Desensitisation.html
 http://web.archive.org/web/20160603081432/http://developer.microsoftband.com/Content/docs/Microsoft%20Band%20SDK.pdf
+http://web.archive.org/web/20160802072410/https://developer.microsoftband.com/bandSDK
 
 
 Videos:
