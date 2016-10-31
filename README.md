@@ -17,8 +17,10 @@ http://web.archive.org/web/20160802072410/https://developer.microsoftband.com/ba
 
 
 Videos:
+Demo: https://youtu.be/R4o9YLurbkM
 
 Pictures:
+
 
 Developers: 
 Himanshu Arora A53097039 - CSE218
